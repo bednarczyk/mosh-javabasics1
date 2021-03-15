@@ -3,8 +3,10 @@ package com.mosh;
 import com.mosh.LamdaAndFunctionalInterfaces.BinaryOperatorDemo;
 import com.mosh.LamdaAndFunctionalInterfaces.FunctionDemo;
 import com.mosh.LamdaAndFunctionalInterfaces.PredicateDemo;
+import com.mosh.LamdaAndFunctionalInterfaces.UnaryOperatorDemo;
 import com.mosh.exceptions.ExceptionsDemo;
 import com.mosh.generics.*;
+import com.mosh.streams.StreamsDemo;
 
 public class Main {
 
@@ -24,7 +26,9 @@ public class Main {
         //SupplierDemo.show();
         //FunctionDemo.show();
         //PredicateDemo.show();
-        BinaryOperatorDemo.show();
+        //BinaryOperatorDemo.show();
+        //UnaryOperatorDemo.show();
+        StreamsDemo.show();
     }
 
     public static void collections(){
