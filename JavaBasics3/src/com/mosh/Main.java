@@ -1,7 +1,8 @@
 package com.mosh;
 
-import com.mosh.LamdaAndFunctionalInterfaces.LambdaDemo;
-import com.mosh.interfaces.*;
+import com.mosh.LamdaAndFunctionalInterfaces.BinaryOperatorDemo;
+import com.mosh.LamdaAndFunctionalInterfaces.FunctionDemo;
+import com.mosh.LamdaAndFunctionalInterfaces.PredicateDemo;
 import com.mosh.exceptions.ExceptionsDemo;
 import com.mosh.generics.*;
 
@@ -18,7 +19,12 @@ public class Main {
         //QueueDemo.show();
         //SetDemo.show();
         //MapDemo.show();
-        LambdaDemo.show();
+        //LambdaDemo.show();
+        //ConsumerDemo.show();
+        //SupplierDemo.show();
+        //FunctionDemo.show();
+        //PredicateDemo.show();
+        BinaryOperatorDemo.show();
     }
 
     public static void collections(){
