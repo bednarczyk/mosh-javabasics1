@@ -68,10 +68,15 @@ public class WordWrappy {
                 sbSentence.append('\n');
                 counter = 0;
 
-                // accommodating leading spaces for the beginning of a paragraph/line
+                // accommodating leading spaces for the beginning of a paragraph after newline
                 int j = i;
-                while((j + 1) < s.length()){
-
+                char d;
+                while((i + 1) < s.length()){
+                    d = s.charAt(i+1);
+                    if(d == ' '){
+                        sbWord.append(d);
+                        i++;
+                    } else break;
                 }
             } else {
                 sbWord.append(c);
