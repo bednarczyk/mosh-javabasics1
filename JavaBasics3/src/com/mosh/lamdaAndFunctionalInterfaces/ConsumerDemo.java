@@ -1,7 +1,6 @@
-package com.mosh.LamdaAndFunctionalInterfaces;
+package com.mosh.lamdaAndFunctionalInterfaces;
 
 import java.util.List;
-import java.util.Locale;
 import java.util.function.Consumer;
 
 public class ConsumerDemo {

@@ -1,4 +1,4 @@
-package com.mosh.LamdaAndFunctionalInterfaces;
+package com.mosh.lamdaAndFunctionalInterfaces;
 
 import java.util.function.BinaryOperator;
 import java.util.function.Function;

@@ -1,4 +1,4 @@
-package com.mosh.LamdaAndFunctionalInterfaces;
+package com.mosh.lamdaAndFunctionalInterfaces;
 
 public class ConsolePrinter implements Printer{
     @Override

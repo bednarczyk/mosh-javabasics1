@@ -1,4 +1,4 @@
-package com.mosh.LamdaAndFunctionalInterfaces;
+package com.mosh.lamdaAndFunctionalInterfaces;
 
 public interface Printer {
     void print(String message);

@@ -1,4 +1,4 @@
-package com.mosh.LamdaAndFunctionalInterfaces;
+package com.mosh.lamdaAndFunctionalInterfaces;
 
 import com.mosh.streams.Genre;
 import com.mosh.streams.Movie;

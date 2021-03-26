@@ -1,9 +1,5 @@
 package com.mosh;
 
-import com.mosh.LamdaAndFunctionalInterfaces.BinaryOperatorDemo;
-import com.mosh.LamdaAndFunctionalInterfaces.FunctionDemo;
-import com.mosh.LamdaAndFunctionalInterfaces.PredicateDemo;
-import com.mosh.LamdaAndFunctionalInterfaces.UnaryOperatorDemo;
 import com.mosh.exceptions.ExceptionsDemo;
 import com.mosh.generics.*;
 import com.mosh.streams.StreamsDemo;

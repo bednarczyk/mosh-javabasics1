@@ -1,6 +1,6 @@
 package com.mosh.streams;
 
-import com.mosh.LamdaAndFunctionalInterfaces.PartitioningDemo;
+import com.mosh.lamdaAndFunctionalInterfaces.PartitioningDemo;
 
 import java.util.List;
 
